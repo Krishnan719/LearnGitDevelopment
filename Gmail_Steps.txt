@@ -1,0 +1,13 @@
+Open Gmail Application
+
+Steps:
+
+1. Open the chrome browser
+
+2. Enter the gmail url
+
+3. Enter the username, password
+
+4. Click the login button
+
+5. Able to see the list of mails
