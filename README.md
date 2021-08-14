@@ -1,2 +1,2 @@
 # LearnGitDevelopment
-I am learning the git development
+From today onwards have started to learn git development
