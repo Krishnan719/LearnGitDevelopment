@@ -8,6 +8,8 @@ Steps:
 
 3. Enter the username, password
 
-4. Click the login button
+4. Click the login button.
 
-5. Able to see the list of mails
+5. Able to see the mails
+
+6. Click the Compose button a new mail can be created
