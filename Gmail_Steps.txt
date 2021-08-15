@@ -21,3 +21,5 @@ Steps:
 9. Ensure the Reply All functionality is implemented and verify the same
 
 10. Select the check box and click the delete icon ensure the email is deleted
+
+11. Use short-cut keys to send a mail to the recipient
