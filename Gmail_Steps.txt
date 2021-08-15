@@ -17,3 +17,7 @@ Steps:
 7. Open the mail click the Reply option and send it
 
 8. Open the mail click the Forward option and send it
+
+9. Ensure the Reply All functionality is implemented and verify the same
+
+10. Select the check box and click the delete icon ensure the email is deleted
