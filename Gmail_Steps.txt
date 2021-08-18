@@ -18,6 +18,6 @@ Steps to Gmail Application:
 
 8. Open the mail click the Forward option and send it
 
-9. Ensure the Reply All functionality is implemented and verify the same
+9. Ensure the Reply All, short-cut keys functionality is implemented and verify the same
 
 10. Select the check box to any of the email and click the delete icon ensure the email is deleted.
