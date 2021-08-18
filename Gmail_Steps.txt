@@ -1,6 +1,6 @@
 Open Gmail Application
 
-Steps to replicate the actions:
+Steps to Gmail Application:
 
 1. Open the chrome browser
 
@@ -20,6 +20,4 @@ Steps to replicate the actions:
 
 9. Ensure the Reply All functionality is implemented and verify the same
 
-10. Use short-cut keys to send a mail to the recipient
-
-11. Select the check box to any of the email and click the delete icon ensure the email is deleted.
+10. Select the check box to any of the email and click the delete icon ensure the email is deleted.
