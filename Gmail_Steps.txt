@@ -20,4 +20,4 @@ Steps:
 
 9. Ensure the Reply All functionality is implemented and verify the same
 
-10. Select the check box and click the delete icon ensure the email is deleted
+10. Select the check box to any of the email and click the delete icon ensure the email is deleted.
