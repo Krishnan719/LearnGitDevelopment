@@ -1,6 +1,6 @@
 Open Gmail Application
 
-Steps:
+Steps to Gmail Application:
 
 1. Open the chrome browser
 
