@@ -22,4 +22,4 @@ Steps to Gmail Application:
 
 10. Select the check box to any of the email and click the delete icon ensure the email is deleted.
 
-11. Introducing send functionality in Gmail application
+11. Introducing send functionality in Gmail application and verify the same emails are present in Sent Items.
