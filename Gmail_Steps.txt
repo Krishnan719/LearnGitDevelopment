@@ -21,3 +21,5 @@ Steps to Gmail Application:
 9. Ensure the Reply All and Uncheck functionality is implemented and verify the same
 
 10. Select the check box to any of the email and click the delete icon ensure the email is deleted.
+
+11. Introducing send functionality in Gmail application
